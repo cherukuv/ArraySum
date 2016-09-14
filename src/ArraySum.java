@@ -1,4 +1,9 @@
-
+/**
+* The Array Sum program implements a simple sum for the given array
+*
+* @author  vignan cheruku
+* @version 1.0
+*/
 import java.util.ArrayList;
 import java.util.Scanner;
 public class ArraySum {
